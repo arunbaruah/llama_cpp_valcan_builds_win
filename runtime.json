@@ -4,7 +4,7 @@
   "context_size": 4096,
   "batch_size": 256,
   "ubatch_size": 32,
-  "gpu_layers": 0,
+  "gpu_layers": 99,
   "flash_attention": true,
   "cache_type_k": "q8_0",
   "cache_type_v": "q8_0",
