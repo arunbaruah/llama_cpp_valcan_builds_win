@@ -18,7 +18,7 @@
   "top_p": 0.9,
   "repeat_penalty": 1.05,
   "connect_timeout_sec": 10,
-  "request_timeout_sec": 240,
+  "request_timeout_sec": 30,
   "MAIN_LLM_PORT": 8080,
   "DECISION_LLM_PORT": 8081
 }
